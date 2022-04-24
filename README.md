@@ -1,6 +1,6 @@
 ### Hello i am Cheddlar
 ### Ethone On Top.
-[![Website](https://cdn.discordapp.com/emojis/928636600307556412.webp?size=96&quality=lossless)](https://ethone.pro)
+[![Website](https://i.imgur.com/gPdZRpb.png)](https://ethone.pro)
 
 ### I am new to coding and wish to learn [python](https://www.python.org) and more.
 
