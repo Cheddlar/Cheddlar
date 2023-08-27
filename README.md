@@ -2,4 +2,4 @@
 
 I don't code much publicly, but you can follow Cheddlatron :D
 
-# [Cheddlatron Organisation!]([https://www.google.com](https://github.com/Cheddlatron)https://github.com/Cheddlatron)
+# [Cheddlatron Organisation!](https://github.com/Cheddlatron)
