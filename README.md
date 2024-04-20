@@ -13,7 +13,7 @@ I'm [Cheddlar], a passionate developer from [Hell]. I love building tools and ut
 - Web Development: Enhancing my skills in frontend and backend web development.
 
 ## 📫 How to reach me
-- Discord or Telegram: Feel free to reach out for collaboration or just to chat! Both will be the name @Cheddlar.
+- [Discord](https://discordapp.com/users/109820747521748992/) or [Telegram](https://t.me/Cheddlar): Feel free to reach out for collaboration or just to chat!
 
 ## 📈 My GitHub Stats
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheddlar&show_icons=true&theme=radical)](https://github.com/Cheddlar)
