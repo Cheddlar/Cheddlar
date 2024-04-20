@@ -23,7 +23,7 @@ I'm [Cheddlar], a passionate developer from [Hell]. I love building tools and ut
 - [Post 2](https://cheddlatron.com/)
 
 ## 🎧 Spotify Playing 🎶
-[<img src="https://novatorem-git-master.raymonddickerson.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Cheddlar)
+[<img src="https://novatorem-git-master.raymonddickerson.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31mfpptmoat5fbqtkye2mfsc7vji)
 
 ## 💬 Ask me about
 - Python Development
