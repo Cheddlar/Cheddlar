@@ -3,9 +3,9 @@
 I'm [Cheddlar], a passionate developer from [Hell]. I love building tools and utility.
 
 ## 🔭 I’m currently working on
-- [Cheddlatron]: A project focused on [Cheddlatron, mine and my friend's Discord Utility Tool].
-- [Ched.bio]: Another project where I'm [Designing my own Frontend Website as a Hub of my socials and Projects].
-- [Other Tools]: A collection of tools I've developed for [Discord and Potentially other programs and software].
+- [Cheddlatron](https://Cheddlatron.com): A project focused on [Cheddlatron, mine and my friend's Discord Utility Tool].
+- [Ched.bio](https;//Ched.bio/): Another project where I'm [Designing my own Frontend Website as a Hub of my socials and Projects].
+- [Other Tools](https://github.com/Cheddlar?tab=repositories): A collection of tools I've developed for [Discord and Potentially other programs and software].
 
 ## 🌱 I’m currently learning
 - Python: Deepening my understanding of Python programming.
