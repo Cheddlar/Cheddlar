@@ -22,8 +22,13 @@ I'm [Cheddlar], a passionate developer from [Hell]. I love building tools and ut
 - [Post 1](https://ched.bio/)
 - [Post 2](https://cheddlatron.com/)
 
-## 🎧 Spotify Playing 🎶
-[<img src="https://novatorem-git-master.raymonddickerson.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31mfpptmoat5fbqtkye2mfsc7vji)
+## 🎧 Tidal Playing 🎶
+Currently listening to: [MF DOOM](https://tidal.com/browse/album/143661100?u)
+
+Feel free to check out my Tidal playlists:
+- [Playlist 1](https://tidal.com/user/yourusername)
+- [Playlist 2](https://tidal.com/user/yourusername)
+
 
 ## 💬 Ask me about
 - Python Development
