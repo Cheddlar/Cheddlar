@@ -33,6 +33,6 @@ Feel free to check out my Tidal playlists:
 ## 💬 Ask me about
 - Python Development
 - Web Development
-- [Any other topic you wish to discuss about!]
+- Any other topic you wish to discuss about!
 
 ## 📫 Feel free to reach out!
