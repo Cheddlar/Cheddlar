@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; pointer-events: none; opacity: 0.2; background-size: cover; background-image: url('(https://nigger.exchange/content/cdn/zSDUSdfNdbeW.png)');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; pointer-events: none; opacity: 0.2; background-size: cover; background-image: url('https://nigger.exchange/content/cdn/zSDUSdfNdbeW.png');]{x0000}$}
 ```
 
 # Hi there 👋
