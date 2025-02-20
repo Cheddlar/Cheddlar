@@ -5,6 +5,7 @@ I'm [Cheddlar], a passionate developer from [Hell]. I love building tools and ut
 ## 🔭 I’m currently working on
 - [Cheddlatron](https://github.com/Cheddlar/Cheddlatron-Source): A now open-source project focused on Cheddlatron, mine and my friend's Discord Utility Tool.
 - [Ched.bio](https://Ched.bio/): Another project where I'm Designing my own Frontend Website as a Hub of my socials and Projects.
+- [Zyrano](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUHcmlja3JvbA%3D%3D): A private Discord User-Application featuring Social commands, fun, utility, and more.
 - [Other Tools](https://github.com/Cheddlar?tab=repositories): A collection of tools I've developed for Discord and other programs and software, for when i'm bored, or needed something.
 
 ## 🌱 I’m currently learning
