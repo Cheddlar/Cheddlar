@@ -19,10 +19,6 @@ I'm [Cheddlar], a passionate developer from [Hell]. I love building tools and ut
 ## 📈 My GitHub Stats
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheddlar&show_icons=true&theme=radical)](https://github.com/Cheddlar)
 
-## 📚 Latest Posts
-- [Post 1](https://ched.bio/)
-- [Post 2](https://cheddlatron.com/)
-
 ## 🎧 Tidal Playing 🎶
 Currently listening to: [MF DOOM](https://tidal.com/browse/album/143661100?u)
 
