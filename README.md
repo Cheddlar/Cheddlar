@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Cheddlar], a passionate developer from [Hell]. I love building tools and utility.
+I'm **Cheddlar**, a passionate developer from the **UK**. I love building tools and utility.
 
 ## 🔭 I’m currently working on
 - [Cheddlatron](https://github.com/Cheddlar/Cheddlatron-Source): A now open-source project focused on Cheddlatron, mine and my friend's Discord Utility Tool.
